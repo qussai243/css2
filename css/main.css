@@ -1,0 +1,28 @@
+.all{
+    background-color: cyan;
+}
+.our{
+    text-align: center;
+    
+}
+.team{
+   float: left;
+    width: 33%;
+    text-align: center;
+
+ 
+}
+
+
+.pp{
+    text-align: center;
+    width: 33%;
+ 
+    
+}
+.clearfix{
+    clear: both;
+}
+
+   
+   
